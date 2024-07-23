@@ -1,4 +1,3 @@
-
 contacts = {}
 
 def add_contact():
